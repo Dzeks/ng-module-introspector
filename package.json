@@ -1,6 +1,6 @@
 {
   "name": "ng-module-introspector",
-  "private": true,
+  "version": "0.3.0",
   "devDependencies": {
     "bower": "1.5.2",
     "grunt": "0.4.5",
